@@ -29,7 +29,7 @@
     <enum>QFrame::Sunken</enum>
    </property>
    <property name="text">
-    <string>Fifteen Puzzle CS340 Project  Made by: Mav Khan</string>
+    <string>Fifteen Puzzle CS340 Project  Made by: Mav Khan &amp; Peter</string>
    </property>
    <property name="textFormat">
     <enum>Qt::PlainText</enum>
